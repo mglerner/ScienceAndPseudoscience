@@ -33,4 +33,8 @@ Homework is on my computer, but not publicly available.
  * [Hard Choices](http://www.ted.com/talks/ruth_chang_how_to_make_hard_choices?language=en#t-423372)
  * [Space 1999](http://en.wikipedia.org/wiki/Space:_1999)
 
+## Specific topics/modules
 
+# Climate Change
+
+ * From Max, [How scientists are annotating climate reporting](http://www.cjr.org/analysis/feedback_loop.php)
