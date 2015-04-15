@@ -1,5 +1,7 @@
 # Project specific
 AlanPeelPrivate
+Private
+Private/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
