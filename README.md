@@ -33,8 +33,13 @@ Homework is on my computer, but not publicly available.
  * [Hard Choices](http://www.ted.com/talks/ruth_chang_how_to_make_hard_choices?language=en#t-423372)
  * [Space 1999](http://en.wikipedia.org/wiki/Space:_1999)
 
+## Other articles/blog posts/etc to integrate
+
+ * [“Science.” You keep using that word. I do not think it means what you think it means.](https://www.sciencebasedmedicine.org/science-you-keep-using-that-word-i-do-not-think-it-means-what-you-think-it-means/)
+
 ## Specific topics/modules
 
 # Climate Change
 
  * From Max, [How scientists are annotating climate reporting](http://www.cjr.org/analysis/feedback_loop.php)
+
