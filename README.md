@@ -4,10 +4,16 @@ Science And Pseudoscience
 Highly influenced by Alan Peel's [course][APC] at the University of Maryland. Also a [course][TSM] on the scientific method at SMU and perhaps a psychology [course][PsychPseudo]
 
 
-Likely textbooks
+Required textbooks
 
   * Michael Shermer's [Why People Believe Weird Things][WPBWT]
   * Randall Munroe's [what if?][whatif]
+  * Cordeila Fine's [A Mind of Its Own: How your Brain Distorts and Deceives][AMoIO]
+  * Madsen Pirie's [How to Win Every Argument: The Use and Abuse of Logic][HowToWin]
+
+Recommended textbooks
+
+ * Schick and Vaughn's [How to Think About Weird Things][HowToThink]
 
 
 [APC]: http://www.astro.umd.edu/~peel/CPSP100/ "Alan Peel's Science and Pseudoscience Colloquium, Fall 2014"
@@ -18,7 +24,13 @@ Likely textbooks
 
 [WPBWT]: http://www.michaelshermer.com/weird-things/ "Michael Shermer's Why People Believe Weird Things"
 
-[whatif] : https://what-if.xkcd.com/ "Randal Munroe's what if?"
+[whatif]: https://what-if.xkcd.com/ "Randal Munroe's what if?"
+
+[AMoIO]: http://smile.www.amazon.com/Mind-Its-Own-Distorts-Deceives/dp/0393331636 "Cordelia Fine's A Mind of Its Own: How your Brain Distorts and Deceives"
+
+[HowToWin]: http://www.amazon.com/EPZ-How-Win-Every-Argument/dp/0826498949 "EPZ How to Win Every Argument: The Use and Abuse of Logic"
+
+[HowToThink]: http://www.amazon.com/How-Think-About-Weird-Things/dp/007353577X/ref=sr_1_2?ie=UTF8&qid=1429728270&sr=8-2&keywords=How+to+Think+about+Weird+Things "How to Think About Weird Things"
 
 ## From Alan
 
@@ -35,7 +47,7 @@ Homework is on my computer, but not publicly available.
 
 ## Other articles/blog posts/etc to integrate
 
- * [“Science.” You keep using that word. I do not think it means what you think it means.](https://www.sciencebasedmedicine.org/science-you-keep-using-that-word-i-do-not-think-it-means-what-you-think-it-means/)
+ * ["Science."" You keep using that word. I do not think it means what you think it means.](https://www.sciencebasedmedicine.org/science-you-keep-using-that-word-i-do-not-think-it-means-what-you-think-it-means/)
 
 ## Specific topics/modules
 
