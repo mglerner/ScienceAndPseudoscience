@@ -14,6 +14,7 @@ Required textbooks
 Recommended textbooks
 
  * Schick and Vaughn's [How to Think About Weird Things][HowToThink]
+ * Ellenberg's [How Not to Be Wrong][HowNotToBeWrong]
 
 
 [APC]: http://www.astro.umd.edu/~peel/CPSP100/ "Alan Peel's Science and Pseudoscience Colloquium, Fall 2014"
@@ -31,6 +32,8 @@ Recommended textbooks
 [HowToWin]: http://www.amazon.com/EPZ-How-Win-Every-Argument/dp/0826498949 "EPZ How to Win Every Argument: The Use and Abuse of Logic"
 
 [HowToThink]: http://www.amazon.com/How-Think-About-Weird-Things/dp/007353577X/ref=sr_1_2?ie=UTF8&qid=1429728270&sr=8-2&keywords=How+to+Think+about+Weird+Things "How to Think About Weird Things"
+
+[HowNotToBeWrong]: http://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/1594205221 "How Not to Be Wrong: The Power of Mathematical Thinking"
 
 ## From Alan
 
