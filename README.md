@@ -17,7 +17,7 @@ Recommended textbooks
  * Ellenberg's [How Not to Be Wrong][HowNotToBeWrong]
 
 
-[APC]: http://www.astro.umd.edu/~peel/CPSP100/ "Alan Peel's Science and Pseudoscience Colloquium, Fall 2014"
+[APC]: http://www.astro.umd.edu/~peel/CPSD100/ "Alan Peel's Science and Pseudoscience Colloquium, Fall 2014"
 
 [TSM]: http://www.physics.smu.edu/pseudo/ "SMU's The Scientific Method - Critical and Creative Thinking (Debunking Pseudoscience)"
 
@@ -58,3 +58,7 @@ Homework is on my computer, but not publicly available.
 
  * From Max, [How scientists are annotating climate reporting](http://www.cjr.org/analysis/feedback_loop.php)
 
+# Chocolate
+
+ * From Ben,
+   [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](http://io9.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800), [Echo chamber of outrage: Ars attends a climate skeptics’ summit](http://arstechnica.com/science/2015/07/i-rejoice-that-it-is-warm-ars-attends-a-climate-contrarian-conference/)
