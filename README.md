@@ -9,13 +9,16 @@ Required textbooks
   * Michael Shermer's [Why People Believe Weird Things][WPBWT]
   * Randall Munroe's [what if?][whatif]
   * Cordeila Fine's [A Mind of Its Own: How your Brain Distorts and Deceives][AMoIO]
-  * Madsen Pirie's [How to Win Every Argument: The Use and Abuse of Logic][HowToWin]
+  * Madsen Pirie's
+  [How to Win Every Argument: The Use and Abuse of Logic][HowToWin]
+  * We'll also listen to several [You are not so smart][YNNS] podcasts.
 
 Recommended textbooks
 
  * Schick and Vaughn's [How to Think About Weird Things][HowToThink]
  * Ellenberg's [How Not to Be Wrong][HowNotToBeWrong]
 
+[YNNS]: http://youarenotsosmart.com/ "You are not so smart"
 
 [APC]: http://www.astro.umd.edu/~peel/CPSD100/ "Alan Peel's Science and Pseudoscience Colloquium, Fall 2014"
 
@@ -47,6 +50,7 @@ Homework is on my computer, but not publicly available.
 
  * [Hard Choices](http://www.ted.com/talks/ruth_chang_how_to_make_hard_choices?language=en#t-423372)
  * [Space 1999](http://en.wikipedia.org/wiki/Space:_1999)
+ * [The Widening World of Hand-Picked Truths](http://www.nytimes.com/2015/08/25/science/the-widening-world-of-hand-picked-truths.html?_r=0)
 
 ## Other articles/blog posts/etc to integrate
 
