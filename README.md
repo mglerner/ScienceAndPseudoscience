@@ -51,6 +51,7 @@ Homework is on my computer, but not publicly available.
  * [Hard Choices](http://www.ted.com/talks/ruth_chang_how_to_make_hard_choices?language=en#t-423372)
  * [Space 1999](http://en.wikipedia.org/wiki/Space:_1999)
  * [The Widening World of Hand-Picked Truths](http://www.nytimes.com/2015/08/25/science/the-widening-world-of-hand-picked-truths.html?_r=0)
+ * [Case studies](http://sciencecases.lib.buffalo.edu/cs/collection/author_list.asp?author_id=330)
 
 ## Other articles/blog posts/etc to integrate
 
