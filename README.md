@@ -1,7 +1,13 @@
 Science And Pseudoscience
 =======================
 
-Highly influenced by Alan Peel's [course][APC] at the University of Maryland. Also a [course][TSM] on the scientific method at SMU and perhaps a psychology [course][PsychPseudo]
+Highly influenced by Alan Peel's [course][APC] at the University of
+Maryland. Also a [course][TSM] on the scientific method at SMU and
+perhaps a psychology [course][PsychPseudo]
+
+To start off with, what's the difference between science and
+pseudoscience? Michael Shermer has a nice
+[article](http://www.scientificamerican.com/article/what-is-pseudoscience/). 
 
 
 Required textbooks
