@@ -4,7 +4,7 @@ Science And Pseudoscience
 **Course Description**: What is pseudoscience, and how can we
 distinguish it from science? Why do people believe in mind reading?
 Alien abduction? Human-induced climate change? Perpetual motion
-machines?  You will develop an understanding of what exactly it is
+machines? In this course, we'll develop an understanding of what exactly it is
 that we call "science," and the critical thinking skills necessary to
 evaluate (and debunk!) outlandish claims on your own.
 
@@ -80,3 +80,8 @@ Homework is on my computer, but not publicly available.
 
  * From Ben,
    [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](http://io9.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800), [Echo chamber of outrage: Ars attends a climate skeptics’ summit](http://arstechnica.com/science/2015/07/i-rejoice-that-it-is-warm-ars-attends-a-climate-contrarian-conference/)
+
+# Current links to examine
+
+ * https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1319&context=geosciencefacpub
+ * https://casa.colorado.edu/~dduncan/pseudoscience/ (a course at University of Colorado)
