@@ -1,6 +1,13 @@
 Science And Pseudoscience
 =======================
 
+*Course Description*: What is pseudoscience, and how can we
+distinguish it from science? Why do people believe in mind reading?
+Alien abduction? Human-induced climate change? Perpetual motion
+machines?  You will develop an understanding of what exactly it is
+that we call "science," and the critical thinking skills necessary to
+evaluate (and debunk!) outlandish claims on your own.
+
 Highly influenced by Alan Peel's [course][APC] at the University of
 Maryland. Also a [course][TSM] on the scientific method at SMU and
 perhaps a psychology [course][PsychPseudo]
