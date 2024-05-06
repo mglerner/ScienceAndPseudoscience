@@ -1,7 +1,7 @@
 Science And Pseudoscience
 =======================
 
-*Course Description*: What is pseudoscience, and how can we
+**Course Description**: What is pseudoscience, and how can we
 distinguish it from science? Why do people believe in mind reading?
 Alien abduction? Human-induced climate change? Perpetual motion
 machines?  You will develop an understanding of what exactly it is
