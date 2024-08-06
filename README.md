@@ -21,9 +21,9 @@ Required textbooks
 
   * Michael Shermer's [Why People Believe Weird Things][WPBWT]
   * Randall Munroe's [what if?][whatif]
+  * Carl Sagan's [The Demon Haunted World][demonworld]
   * Cordeila Fine's [A Mind of Its Own: How your Brain Distorts and Deceives][AMoIO]
-  * Madsen Pirie's
-  [How to Win Every Argument: The Use and Abuse of Logic][HowToWin]
+  * Madsen Pirie's [How to Win Every Argument: The Use and Abuse of Logic][HowToWin]
   * We'll also listen to several [You are not so smart][YNNS] podcasts.
 
 Recommended textbooks
@@ -43,6 +43,8 @@ Recommended textbooks
 
 [whatif]: https://what-if.xkcd.com/ "Randal Munroe's what if?"
 
+[demonworld]: https://www.amazon.com/Demon-Haunted-World-Science-Candle-Dark/dp/0345409469
+
 [AMoIO]: http://smile.www.amazon.com/Mind-Its-Own-Distorts-Deceives/dp/0393331636 "Cordelia Fine's A Mind of Its Own: How your Brain Distorts and Deceives"
 
 [HowToWin]: http://www.amazon.com/EPZ-How-Win-Every-Argument/dp/0826498949 "EPZ How to Win Every Argument: The Use and Abuse of Logic"
@@ -55,7 +57,7 @@ Recommended textbooks
 
 Other versions of his course
 
- * [Spring13](http://earlham.edu/news/article/?id=29846&r=14619).
+ * [Spring13](https://moodle13-18.earlham.edu/course/view.php?id=5450).
 
 Homework is on my computer, but not publicly available.
 
@@ -85,3 +87,23 @@ Homework is on my computer, but not publicly available.
 
  * https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1319&context=geosciencefacpub
  * https://casa.colorado.edu/~dduncan/pseudoscience/ (a course at University of Colorado)
+
+# Similar Course Syllabus Dump
+
+## Psych departments
+
+ * 2019 UToledo https://www.utoledo.edu/al/psychology/pdfs/syllabi/fall2019_actual/4980-062%20Fall%202019.pdf
+ * Notre Dame, very complete https://www3.nd.edu/~ghaeffel/PsyPseudSyllabus17%20copy.pdf
+ * Followup on that https://www3.nd.edu/~ghaeffel/Science&PseudoReading.html
+ * Roanoke 2022 https://www.roanoke.edu/documents/math/Spring%202022/Spring%202022%20Syllabi%20-%20MCSP%20%281%29/2022%20SP%20INQ%20251C%20Hickox-Young.pdf
+ * Roanoke 2020 https://www.roanoke.edu/documents/mcsp/Fall%202020/2020FA%20INQ%20251A%20Assi.pdf
+ * Lethbridge https://www.ulethbridge.ca/sites/default/files/2018/05/3850acoss2018cl.pdf
+ * Central Oklahoma https://www.skeptic.com/skepticism-101/downloads/syllabi/Syllabus-Science-Pseudoscience-by-Caleb-Lack.pdf
+
+## Engineering depts
+
+ * NYU 2020 https://research.engineering.nyu.edu/~jbain/pseudoscience/index.html
+
+## Physics depts
+
+ * CSUS 2017 https://www.csus.edu/indiv/t/taylorc/phys30_sec1_f17_taylor.pdf
